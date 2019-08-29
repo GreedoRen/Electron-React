@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/GreedoRen/TestProject/issues"
   },
-  "homepage": "https://github.com/GreedoRen/TestProject#readme"
+  "homepage": "https://github.com/GreedoRen/TestProject#readme",
+  "dependencies": {
+    "requirejs": "^2.3.6"
+  }
 }
