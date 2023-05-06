@@ -9,7 +9,7 @@
 		"electron-is-dev": "^1.1.0",
 		"react": "^16.6.0",
 		"react-dom": "^16.6.0",
-		"react-scripts": "2.0.5",
+		"react-scripts": "5.0.1",
 		"wait-on": "^3.3.0"
 	},
 	"main": "public/main.js",
